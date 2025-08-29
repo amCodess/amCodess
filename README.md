@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amedinByBivium.amedinByBivium" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amCodess.amCodess" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amedin+Aguado!;" />
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker and Kubernetes**
 
-💬 Ask me about anything **[here](https://github.com/amedinByBivium/amedinByBivium/issues)**
+💬 Ask me about anything **[here](https://github.com/amCodess/amCodess/issues)**
 
  </div>
  
