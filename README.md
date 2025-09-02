@@ -38,14 +38,3 @@
 
 <br/>
 <hr/>
-
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=amCodess&show_icons=true&theme=transparent"/>
-</div>
-
-<br/><br/>
-
